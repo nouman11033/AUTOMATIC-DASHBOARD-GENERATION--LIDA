@@ -1,0 +1,4 @@
+Disease,Humidity,Temperature,Susceptible_Conditions,Unnamed__4,Unnamed__5,Unnamed__6
+Downy Mildew,>85%,18°C - 25°C,High humidity and moderate temperatures,,,
+Powdery Mildew,<60%,21°C - 32°C,Dry conditions with warm temperatures,,,
+Bacterial Rot,>90%,>24°C,High humidity and warm temperatures,,,
