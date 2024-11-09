@@ -2,8 +2,6 @@
 
 This Streamlit application demonstrates an implementation of [LIDA](https://github.com/microsoft/lida) using Streamlit as a front end library.
 
-![LIDA Streamlit Application](docs/images/streamlitlida.png)
-
 LIDA is a library for generating data visualizations and data-faithful infographics. LIDA is grammar agnostic (will work with any programming language and visualization libraries e.g. matplotlib, seaborn, altair, d3 etc) and works with multiple large language model providers (OpenAI, Azure OpenAI, PaLM, Cohere, Huggingface). Details on the components of LIDA are described in the [paper here](https://arxiv.org/abs/2303.02927) and in this tutorial [notebook](notebooks/tutorial.ipynb).
 
 See the project page [here](https://microsoft.github.io/lida/) for updates!.
