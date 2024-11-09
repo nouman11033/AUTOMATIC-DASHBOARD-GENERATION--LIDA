@@ -8,9 +8,6 @@ LIDA is a library for generating data visualizations and data-faithful infograph
 
 See the project page [here](https://microsoft.github.io/lida/) for updates!.
 
-## What you will learn
-
-Exploring this application will help developers familiarize themselves with Large Language Models' integration, specific operations like data summarization, goal selection, and visualization. It also teaches developers how to manage secrets (like API keys) securely using .env files and showcases how to utilize pre-trained models for text generation.
 
 ## Getting Started
 
@@ -25,8 +22,4 @@ streamlit run main.py
 
 ```
 
-## Contributing
 
-This project welcomes contributions and suggestions.
-
-Happy Learning!
